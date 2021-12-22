@@ -1,0 +1,5 @@
+Name,Attack_damage,Attack_speed,Range,Projectile_velocity
+rapid,5,60,1,4
+normal,10,20,2,2
+long,35,5,3,1
+fire,1,1,1,1

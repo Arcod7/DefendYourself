@@ -1,0 +1,6 @@
+Name,Max_health,Speed,Money_value,Size,Spawn_chance
+goblin,15,3,22,2,30
+giant,110,2,20,20,20
+witch,35,3,25,8,26
+griffin,75,6,30,13,12
+echidna,40,8,35,8,12
